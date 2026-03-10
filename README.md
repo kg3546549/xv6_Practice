@@ -1,8 +1,4 @@
-# xv6 Practice
-
-xv6 OS 실습 보고서 모음
-
----
+# xv6 분석 Report
 
 ## 목차
 
